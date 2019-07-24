@@ -3,6 +3,9 @@ from . import wiki_qa
 from . import embeddings
 from . import snli
 from . import quora_qp
+from . import cb
+from . import rte
+from . import copa
 from pathlib import Path
 
 
